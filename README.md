@@ -5,5 +5,8 @@ Clicking the preview images will take you to its respective download page
 
 ## Currently Available
 ### Acrid:
-   WarGreymon<br/>
-   [![Skin Preview](https://raw.githubusercontent.com/muppp/muppps-RoR2-Skins/main/Acrid/WarGreymon/icon.png)](https://thunderstore.io/package/muppp/Acrid_Wargreymon_Cosplay/ "Acrid-WarGreymon Thunderstore")
+WarGreymon<br/>
+[![Skin Preview](https://raw.githubusercontent.com/muppp/muppps-RoR2-Skins/main/Acrid/WarGreymon/icon.png)](https://thunderstore.io/package/muppp/Acrid_Wargreymon_Cosplay/ "Acrid-WarGreymon Thunderstore")
+
+Bowser<br/>
+![Skin Preview](https://raw.githubusercontent.com/muppp/muppps-RoR2-Skins/main/Acrid/Bowser/icon.png)
