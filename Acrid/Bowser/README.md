@@ -2,7 +2,7 @@
 Adds a Bowser skin for Acrid
 
 # Preview
-![Skin Preview](https://raw.githubusercontent.com/muppp/muppps-RoR2-Skins/main/Acrid/WarGreymon/icon.png)
+![Skin Preview](https://raw.githubusercontent.com/muppp/muppps-RoR2-Skins/main/Acrid/Bowser/icon.png)
 
 # Credits
 KingEnderBrine for supplying Blender Scripts and RoRSkinBuilder.<br/>
