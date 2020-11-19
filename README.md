@@ -9,4 +9,4 @@ WarGreymon<br/>
 [![Skin Preview](https://raw.githubusercontent.com/muppp/muppps-RoR2-Skins/main/Acrid/WarGreymon/icon.png)](https://thunderstore.io/package/muppp/Acrid_Wargreymon_Cosplay/ "Acrid-WarGreymon Thunderstore")
 
 Bowser<br/>
-![Skin Preview]()
+![Skin Preview](https://raw.githubusercontent.com/muppp/muppps-RoR2-Skins/main/Acrid/Bowser/icon.png)
