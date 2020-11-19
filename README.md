@@ -4,6 +4,6 @@ All skins will be available at [thunderstore.io](https://www.thunderstore.io "Th
 
 ## Currently Available
 ### Acrid:
-    WarGreymon
+   WarGreymon
   
-    ![Skin Preview](https://raw.githubusercontent.com/muppp/muppps-RoR2-Skins/main/Acrid/WarGreymon/icon.png)
+   ![Skin Preview](https://raw.githubusercontent.com/muppp/muppps-RoR2-Skins/main/Acrid/WarGreymon/icon.png)
