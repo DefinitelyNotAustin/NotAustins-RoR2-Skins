@@ -1,6 +1,5 @@
 # Info
 Adds a WarGreymon skin for Acrid
-
 (Inspired by Dragonyck's Agumon Skin)
 
 # Preview
@@ -8,7 +7,6 @@ Adds a WarGreymon skin for Acrid
 
 # Credits
 KingEnderBrine for supplying Blender Scripts and RoRSkinBuilder.
-
 Edited WarGreymon parts are ripped from "Digimon Story: Cyber Sleuth"
 
 # Changelog
