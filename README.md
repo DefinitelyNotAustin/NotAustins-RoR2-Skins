@@ -1,6 +1,6 @@
 # muppps-RoR2-Skins
 A full collection of my custom skins made for Risk of Rain 2
-All skins will be available at [I'm an inline-style link with title](https://www.thunderstore.io "thunderstore.io")
+All skins will be available at [thunderstore.io](https://www.thunderstore.io "Thunderstore Homepage")
 
 ## Currently Available
 ### Acrid:
