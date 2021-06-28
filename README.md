@@ -1,4 +1,4 @@
-# muppp's Risk of Rain 2 Skins
+# NotAustin's Risk of Rain 2 Skins
 A full collection of my custom skins made for Risk of Rain 2<br/>
 All skins will be available at [thunderstore.io](https://www.thunderstore.io "Thunderstore Homepage")<br/>
 Clicking the preview images will take you to its respective download page
